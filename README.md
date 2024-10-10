@@ -1,3 +1,9 @@
 # SPEA Clássico
 
-Um algoritmo de SPEA da literatura para podermos usar como base para a próxima demonstração de como SPEAs funcionam e quais seus conceitos.
+Algoritmos clássico e customizado para apresentação do conteúdo de SPEA em Inteligência Artificial.
+
+# Getting Started
+```shell
+$ python3 classic.py
+$ python3 custom.py
+```
